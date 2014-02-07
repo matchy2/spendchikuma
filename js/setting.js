@@ -21,10 +21,10 @@ OpenSpending.Styles.Cofog = {
   '1':   { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' },
 
-  '2':   { icon: 'icons/government.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '2':   { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#4E6D00' },
   '2-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
   '2-2': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '2-3': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '2-3': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#4E6D00' },
   '2-4': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#4E6D00' },
   '2-5': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#4E6D00' },
   '2-6': { icon: 'icons/courts.svg', color: '#C75746', bcolor: '#4E6D00' },
@@ -76,8 +76,8 @@ OpenSpending.Styles.Cofog = {
   '12':  { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
   '12-1':{ icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
 
-  '13':  { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#790586' },
-  '13-1':{ icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#790586' },
+  '13':  { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' },
+  '13-1':{ icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' },
 
   '14':  { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' },
   '14-1':{ icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' },
