@@ -9,7 +9,7 @@ http://shiojiri.spending.jp/ で稼働しているサイトのソースコード
 Core Team: (@は Twitter Account)
 
 
-小澤　昌樹(Masaki Ozawa), @ozamasa (塩尻オープンソースラボ)
+小澤　昌樹(Masaki Ozawa), @ozamasa
 
 このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
 http://qiita.com/items/38c186efbd272ef59121
