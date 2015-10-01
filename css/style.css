@@ -43,7 +43,7 @@ a {
 
 #logo #claim {
   margin-top: -10px;
-  font-style: italic;
+  /*font-style: italic;*/
   /*letter-spacing: 1px;*/
   color: #999999;
   font-size: 1.1em;
