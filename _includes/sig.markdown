@@ -1,1 +1,1 @@
-Where Does My Money Go? Shiojiri team https://github.com/shiojiri-spending/
+Where Does My Money Go? Chikuma repository https://github.com/matchy2/spendchikuma

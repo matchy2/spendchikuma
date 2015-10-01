@@ -1,15 +1,14 @@
-# 俺のゼニはどこ行った for 塩尻
+# 俺のゼニはどこ行った for 千曲市
 
-wheredoesmymoney.orgの塩尻バージョンです．
+wheredoesmymoney.orgの千曲市バージョンです．
 
-http://shiojiri.spending.jp/ で稼働しているサイトのソースコードです。
+http://chikuma.spending.jp/ で稼働している(予定の)サイトのソースコードです。
 
-横浜バージョンから派生しています。
+塩尻バージョンから派生しています。
 
-Core Team: (@は Twitter Account)
+Core Team: 
 
-
-小澤　昌樹(Masaki Ozawa), @ozamasa (塩尻オープンソースラボ)
+MACHIDA 'matchy' Hideki
 
 このソースコードは、Open Definition(http://opendefinition.org/) の定義に沿っていれば、どなたでも利用、改変、及び再配布が可能です。
 http://qiita.com/items/38c186efbd272ef59121
