@@ -1,23 +1,6 @@
 
 /* OKFN Brand font, not related to WDMMG. */
 
-/*
-@font-face {
-  font-family: 'OpenSansLight';
-  src: url('../img/opensans-light-webfont.eot');
-  src: url('../img/opensans-light-webfont.eot?#iefix') format('embedded-opentype'), url('../img/opensans-light-webfont.woff') format('woff'), url('../img/opensans-light-webfont.ttf') format('truetype'), url('opensans-light-webfont.svg#OpenSansLight') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-    font-family: "OpenSansSemibold";
-    font-style: normal;
-    font-weight: 600;
-    src: url("../img/opensans-semibold-webfont.eot?#iefix") format("embedded-opentype"), url("../img/opensans-semibold-webfont.woff") format("woff"), url("../img/opensans-semibold-webfont.ttf") format("truetype"), url("../img/opensans-semibold-webfont.svg#OpenSansLight") format("svg");
-}
-*/
-
 html {
   background-color: #222222;
 }
@@ -27,10 +10,7 @@ body {
 }
 
 body, p, blockquote p {
-  /*
-  font-family: Palatino, georgia, 'times new roman', serif;
-  */
-  font-family: 'times new roman', serif;
+  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HGS明朝E", "メイリオ", Meiryo, "ＭＳ Ｐ明朝", "MS PMincho", serif;
   font-size: 16px;
   line-height: 25px;
 }
@@ -84,7 +64,7 @@ a {
 nav ul li,
 footer,
 footer p {
-  font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 13px;
   line-height: 18px;
 }
@@ -96,7 +76,7 @@ nav ul.nav.nav-tabs li {
 nav ul.nav.nav-tabs li a.active {
   color: #000;
   font-weight: bold;
-  font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 footer {
@@ -134,7 +114,7 @@ footer a, footer a:hover {
 }
 
 #dailybread .db-area-title h3 {
-  font-family: "OpenSansSemibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 11px;
   line-height: 13px;
 }
@@ -198,12 +178,12 @@ footer a, footer a:hover {
 }
 
 #bubbletree .desc {
-  font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   font-size: 11px;
   line-height: 13px;
 }
 
 #bubbletree .amount {
-  font-family: Palatino, georgia, 'times new roman', serif;
+  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HGS明朝E", "メイリオ", Meiryo, "ＭＳ Ｐ明朝", "MS PMincho", serif;
   font-size: 14px;
 }

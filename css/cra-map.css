@@ -28,14 +28,14 @@
 }
 
 #cm-bubbletree .label .desc {
-	font-family: "OpenSansLight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-weight: normal;
 	line-height: 1.2em;
 }
 
 #cm-bubbletree .label2 {
 	line-height: 1.2em;
-	font-family: "OpenSansLight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 #cm-bt .bubbletree .label2 span {
@@ -44,13 +44,13 @@
 
 #cm-bubbletree .label2.current {
 	font-weight: bold;
-	font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 12px;
 }
 
 #cm-bubbletree .label.current .desc {
 	font-weight: bold;
-	font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 12px;
 }
 
@@ -115,7 +115,7 @@
 	top: 2px;
 	white-space: no-wrap;
 	width: 200px;
-	font-family: "OpenSansLight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 .ui-tooltip-content .amount {
@@ -262,7 +262,7 @@
 	border-radius: 5px 5px 0 0;
 	font-size: 12px;
 	font-weight: 300;
-	font-family: "OpenSansLight","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 }
 
 .ui-tooltip-default .ui-tooltip-icon{

@@ -20,12 +20,12 @@
 }
 
 .bubbletree .amount { 
-	font-family: Georgia, sans-serif; 
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 16px; 
 }
 
 .bubbletree .desc { 
-	font-family: sans-serif; 
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 11px;
 
 }
@@ -36,7 +36,7 @@
 	text-align: center; 
 	cursor: default; 
 	font-size: 11px;
-	font-family: sans-serif;
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	margin-top:5px;
 }
 
@@ -59,7 +59,7 @@
 	z-index: 9999;
 	box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
 	border-radius: 2px;
-	font-family: sans-serif; 
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 13px; 
 	padding: 4px;
 }
@@ -101,7 +101,7 @@
 	border: 1px solid #999;
 	box-shadow: 3px 3px 0px rgba(0,0,0,.2); 
 	border-radius: 2px;
-	font-family: sans-serif; 
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
 	font-size: 13px; 
 	padding: 4px;	
 	max-width: 200px;
