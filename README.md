@@ -2,7 +2,7 @@
 
 wheredoesmymoney.orgの千曲市バージョンです．
 
-http://chikuma.spending.jp/ で稼働している(予定の)サイトのソースコードです。
+http://chikuma.spending.jp/ で稼働しているサイトのソースコードです。
 
 塩尻バージョンから派生しています。
 
