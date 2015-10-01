@@ -6,5 +6,6 @@ gem 'redcarpet',  '=2.1.1'
 gem 'maruku',     '=0.6.0'
 gem 'rdiscount',  '=1.6.8'
 gem 'RedCloth',   '=4.2.9'
+gem 'iconv'
 gem "rake"
 
